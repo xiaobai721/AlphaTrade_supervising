@@ -1,0 +1,2 @@
+%% exe
+Main_AlphaStockTrade;
